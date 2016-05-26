@@ -1,3 +1,3 @@
-#CF&T
+#Carolina Firearms & Training
 
-<h1>This repo contains files relating to my Concealed Weapon Permit class.</h1>
+<h3>This repo contains files relating to my Concealed Weapon Permit class.</h3>
